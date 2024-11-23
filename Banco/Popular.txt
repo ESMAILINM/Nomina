@@ -1,0 +1,16 @@
+Moneda: , Monto: , NCuenta: ggggggggggg, NombreEmpleado: , SecuenciaTrans: , CodigoEmpresa: hhhhhhhhhhhhh, NomEmpresa: , Secuencia: 
+Moneda: , Monto: , NCuenta: ggggggggggg, NombreEmpleado: , SecuenciaTrans: , CodigoEmpresa: hhhhhhhhhhhhh, NomEmpresa: , Secuencia: 
+Moneda: , Monto: , NCuenta: ggggggggggg, NombreEmpleado: , SecuenciaTrans: , CodigoEmpresa: hhhhhhhhhhhhh, NomEmpresa: , Secuencia: 
+Moneda: , Monto: , NCuenta: ggggggggggg, NombreEmpleado: , SecuenciaTrans: , CodigoEmpresa: hhhhhhhhhhhhh, NomEmpresa: , Secuencia: 
+Moneda: , Monto: , NCuenta: ggggggggggg, NombreEmpleado: , SecuenciaTrans: , CodigoEmpresa: hhhhhhhhhhhhh, NomEmpresa: , Secuencia: 
+Moneda: , Monto: , NCuenta: ggggggggggg, NombreEmpleado: , SecuenciaTrans: , CodigoEmpresa: hhhhhhhhhhhhh, NomEmpresa: , Secuencia: 
+Moneda: , Monto: , NCuenta: ggggggggggg, NombreEmpleado: , SecuenciaTrans: , CodigoEmpresa: hhhhhhhhhhhhh, NomEmpresa: , Secuencia: 
+Moneda: , Monto: , NCuenta: ggggggggggg, NombreEmpleado: , SecuenciaTrans: , CodigoEmpresa: hhhhhhhhhhhhh, NomEmpresa: , Secuencia: 
+Moneda: , Monto: , NCuenta: ggggggggggg, NombreEmpleado: , SecuenciaTrans: , CodigoEmpresa: hhhhhhhhhhhhh, NomEmpresa: , Secuencia: 
+Moneda: , Monto: , NCuenta: ggggggggggg, NombreEmpleado: , SecuenciaTrans: , CodigoEmpresa: hhhhhhhhhhhhh, NomEmpresa: , Secuencia: 
+Moneda: , Monto: , NCuenta: ggggggggggg, NombreEmpleado: , SecuenciaTrans: , CodigoEmpresa: hhhhhhhhhhhhh, NomEmpresa: , Secuencia: 
+Moneda: , Monto: , NCuenta: ggggggggggg, NombreEmpleado: , SecuenciaTrans: , CodigoEmpresa: hhhhhhhhhhhhh, NomEmpresa: , Secuencia: 
+Moneda: , Monto: , NCuenta: ggggggggggg, NombreEmpleado: , SecuenciaTrans: , CodigoEmpresa: hhhhhhhhhhhhh, NomEmpresa: , Secuencia: 
+Moneda: , Monto: , NCuenta: ggggggggggg, NombreEmpleado: , SecuenciaTrans: , CodigoEmpresa: hhhhhhhhhhhhh, NomEmpresa: , Secuencia: 
+Moneda: , Monto: , NCuenta: ggggggggggg, NombreEmpleado: , SecuenciaTrans: , CodigoEmpresa: hhhhhhhhhhhhh, NomEmpresa: , Secuencia: 
+Moneda: , Monto: , NCuenta: ggggggggggg, NombreEmpleado: gggggggggggg, SecuenciaTrans: , CodigoEmpresa: hhhhhhhhhhhhh, NomEmpresa: , Secuencia: 

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="452.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.projectnomina.ControllerTwo" >
+   <Button fx:id="Editar" layoutX="367.0" layoutY="374.0" mnemonicParsing="false" onAction="#onActionEditar" prefHeight="42.0" prefWidth="99.0" text="Editar" />
+   <Button fx:id="Guardar" layoutX="253.0" layoutY="374.0" mnemonicParsing="false" onAction="#OnActionGuardar" prefHeight="42.0" prefWidth="99.0" text="Guardar" />
+   <Button fx:id="Buscar" layoutX="134.0" layoutY="374.0" mnemonicParsing="false" onAction="#OnActionBuscar" prefHeight="42.0" prefWidth="99.0" text="Buscar" />
+   <TextField fx:id="nomEmpresa" layoutX="396.0" layoutY="68.0" onAction="#onActionNomEmpresa" prefHeight="25.0" prefWidth="183.0" />
+   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+   <Text layoutX="293.0" layoutY="85.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nombre Empresa" />
+   <TextField fx:id="codigoempresa" layoutX="140.0" layoutY="68.0" onAction="#onActionCodigoEmpresa" prefHeight="25.0" prefWidth="116.0" />
+   <Text layoutX="39.0" layoutY="85.0" strokeType="OUTSIDE" strokeWidth="0.0" text=" Codigo Empresa" />
+   <TextField fx:id="NombreEmpleado" layoutX="141.0" layoutY="148.0" onAction="#onAntionNombreEmpleado" prefHeight="25.0" prefWidth="183.0" />
+   <TextField fx:id="NCuenta" layoutX="141.0" layoutY="108.0" onAction="#onActionNCuenta" prefHeight="17.0" prefWidth="183.0" />
+   <Text layoutX="46.0" layoutY="165.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nombre Emplea." wrappingWidth="116.0" />
+   <Text layoutX="46.0" layoutY="117.0" strokeType="OUTSIDE" strokeWidth="0.0" text="N. de Cuenta Empleado" wrappingWidth="77.75311279296875" />
+   <TextField fx:id="SecuenciaTrans" layoutX="145.0" layoutY="187.0" onAction="#onActionSecuenciatrans" prefHeight="25.0" prefWidth="116.0" />
+   <Text layoutX="46.0" layoutY="204.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Secuencia Trans." />
+   <TextField fx:id="secuencia" layoutX="145.0" layoutY="226.0" onAction="#onActionSecuencia" prefHeight="25.0" prefWidth="116.0" />
+   <Text layoutX="46.0" layoutY="243.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Secuencia" />
+   <TextField fx:id="Monto" layoutX="145.0" layoutY="268.0" onAction="#onActionMonto" prefHeight="25.0" prefWidth="116.0" />
+   <Text layoutX="46.0" layoutY="285.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Monto Trans." />
+   <TextField fx:id="Modena" layoutX="145.0" layoutY="304.0" onAction="#onActionModena" prefHeight="25.0" prefWidth="116.0" />
+   <Text layoutX="46.0" layoutY="321.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Moneda Destino" />
+
+</Pane>
